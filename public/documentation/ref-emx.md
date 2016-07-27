@@ -179,7 +179,7 @@ Optional columns (can be omitted):
 # Entities options
 Required columns:
 
-* entity : unique name of the entity. If packages are provided, name must be unique within a package.
+* name : unique name of the entity. If packages are provided, name must be unique within a package.
 
 Optional columns:
 
